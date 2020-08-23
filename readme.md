@@ -49,7 +49,7 @@ Existem alternativas promissoras, como: [Cake](https://mycake.me/), [Elsa Speak]
 ## Passo 0
 >Programadores contam a partir do 0. Espero que você entenda isso rápido!
 
-Faça esses passos, como puder, em paralelo (um ou dois desses por dia), e só progrida para outros passos depois de terminar!
+Faça esses passos, como puder, em paralelo (um ou dois desses por dia), e só avance para outros passos depois de terminar!
 
 ### Leia o [Universo da programação](https://www.casadocodigo.com.br/products/livro-universo-programacao).
 
@@ -60,7 +60,7 @@ O livro é barato, R$30,00 a versão digital, e é a única coisa paga que eu ac
 
 Sim, você pode, consegue, merece e **vai** fazer. É um excelente curso base para qualquer área. Tem a versão em [inglês](https://www.edx.org/course/cs50s-introduction-to-computer-science) (recomendada) e em [português](https://fundacao-estudar.myedools.com/cc50-o-curso-de-ciencia-da-computacao-de-harvard?utm_campaign=cc50_link_de_acesso_-_inscritos_na_lp_bug&utm_medium=email&utm_source=RD+Station) (localizada).
 
-Por R$450,00 você **pode** pagar pelo certificado e colocar no currículo **um diploma de Harvard de verdade, reconhecido internacionalmente**. Se tiver condições, pague. **Será** muito útil no futuro. Se não tiver, sem problemas. Seu esforço será mais válido.
+Por R$480,00 você **pode** pagar pelo certificado e colocar no currículo **um diploma de Harvard de verdade, reconhecido internacionalmente**. Se tiver condições, pague. **Será** muito útil no futuro. Se não tiver, sem problemas. Seu esforço será mais válido.
 > Mas não existe meritocracia, ok? Vê esse meu [outro artigo aqui](https://spinnerzl.wordpress.com/2020/06/19/sempre-e-tempo-de-se-aprimorar/) que pode te inspirar.
 
 ### Aprenda a perguntar
