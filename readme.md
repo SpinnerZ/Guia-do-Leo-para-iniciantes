@@ -1,7 +1,6 @@
 # Guia para desenvolvedores de software iniciantes autodidatas
 
-```text
-Antes de qualquer coisa:
+## Antes de qualquer coisa:
 
 - Você pode aprender programação.
 - Você consegue aprender programação.
@@ -17,7 +16,6 @@ Antes de qualquer coisa:
 - Programação é útil pra vida.
 - Tenha planos, metas e objetivos.
 - Direção é mais importante do que velocidade.
-```
 
 ## Sobre o guia
 Eu participo de muitas comunidades de software, e o que mais vejo são novatos perguntando por dicas, que caminho começar.  
