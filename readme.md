@@ -8,7 +8,7 @@ Antes de qualquer coisa:
 - Programação é para você.
 - Desenvolvedores são os profissionais que mais se ajudam que você vai ver nesse planeta (só perde para taxistas e policiais :D ).
 - Idade não é um problema. Sério. Não é mesmo. Dá pra começar aos 60 tranquilo.
-- É necessário esforço, mas tem uma recompensa pessoal rápida
+- É necessário esforço, mas tem uma recompensa pessoal rápida.
 - Existem diversas áreas de atuação.
 - Você não vai aprender a hackear Facebook ou Instagram de ninguém.
 - Prepare a despedida do Windows, você muito provavelmente vai precisar usar Linux.
@@ -65,9 +65,9 @@ Sim, você pode, consegue, merece e **vai** fazer. É um excelente curso base pa
 Por R$450,00 você **pode** pagar pelo certificado e colocar no currículo **um diploma de Harvard de verdade, reconhecido internacionalmente**. Se tiver condições, pague. **Será** muito útil no futuro. Se não tiver, sem problemas. Seu esforço será mais válido.
 > Mas não existe meritocracia, ok? Vê esse meu [outro artigo aqui](https://spinnerzl.wordpress.com/2020/06/19/sempre-e-tempo-de-se-aprimorar/) que pode te inspirar.
 
-### [Aprenda a perguntar](http://www.catb.org/esr/faqs/smart-questions.html)
+### Aprenda a perguntar
 
-O texto é em inglês e extenso, mas valiosíssimo. Vai te ajudar a conseguir respostas para suas dúvidas. Leia o que puder, como puder. Use tradutor, veja parágrafos por vez, mas não deixe de ler.
+Leia e entenda esse texto, com versões em [inglês](http://www.catb.org/esr/faqs/smart-questions.html) e [português](http://blogofscience.com/perguntas.html) e é extenso, mas valiosíssimo. Vai te ajudar a conseguir respostas para suas dúvidas. Leia o que puder, como puder, mas não deixe de ler.
 
 Nessa vida autodidata, é importante saber formular bem a dúvida para conseguir uma resposta rápida. Isso pode trazer atenção para você e foi assim que eu consegui meu primeiro emprego. Eu fui _recrutado_ simplesmente porque um cara gostou do meu comportamento numa comunidade (falarei mais à frente sobre comunidades.)
 
