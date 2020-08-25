@@ -44,6 +44,8 @@ Outro site interessante é o [New in levels](https://www.newsinlevels.com/). Ele
 
 O [LyricsTraining](https://lyricstraining.com/) vale uma atenção também. Nele você treina inglês completando trechos de músicas que você escolher.
 
+Um app que pode ser interessante é o [Words Coach Vocabulary](https://play.google.com/store/apps/details?id=com.users.wordsdaily&hl=pt_BR) onde você tem palavras novas todos os dias para aprender e um Quis bem legal onde você vai marcando pontos
+
 Existem alternativas promissoras, como: [Cake](https://mycake.me/), [Elsa Speak](https://elsaspeak.com/en/), [English class 101](https://www.facebook.com/watch/live/?v=257526708781687&ref=watch_permalink), e o [Fluencytv](https://www.fluencytv.com/linguagem/ingles). Mas esses eu não experimentei o suficiente para ter uma opinião formada.
 
 ## Passo 0
