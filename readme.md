@@ -38,7 +38,7 @@ Algumas coisas são essenciais e comuns a todas as áreas de desenvolvimento de 
 
 Tudo no mundo da programação é em inglês. Você não precisa se desesperar agora, mas é importante dar o maior foco possível à esse estudo.
 
-Não vou indicar cursos aqui, mas recomendo fortemente o [Duolingo](https://pt.duolingo.com/). Gratuito, ele é muito básico e é um ótimo início. Você estuda no seu tempo, não tem ninguém pra ver sua timidez, e a progressão é razoavelmente rápida.
+Não vou indicar cursos aqui, mas recomendo fortemente o [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSRYUG6E2JEGJ2Q). Gratuito, ele é muito básico e é um ótimo início. Você estuda no seu tempo, não tem ninguém pra ver sua timidez, e a progressão é razoavelmente rápida.
 
 Outro site interessante é o [New in levels](https://www.newsinlevels.com/). Ele traz notícias em inglês de acordo com o seu nível de entendimento para praticar. Recomendaria tentar ler ao menos uma notícia por dia.
 
