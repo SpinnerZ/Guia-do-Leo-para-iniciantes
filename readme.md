@@ -1,4 +1,4 @@
-# Guia para desenvolvedores de software iniciantes autodidatas
+# [Guia para desenvolvedores de software iniciantes autodidatas](https://spinnerz.github.io/Guia-do-Leo-para-iniciantes/)
 
 ## Antes de qualquer coisa:
 
