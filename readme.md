@@ -18,6 +18,7 @@
 - Saber se comunicar é importante.
 
 ## Para não cair em ciladas
+
 - Fuja da DIO (Digital Innovation One), os cursos são ruins e não acredite na promessa de que vai conseguir emprego no final.
 - Não compre nenhum bootcamp que está em promoção por 2 dias e custa mil Reais
 - Existem outros locais para se aprender fora a Alura
@@ -45,7 +46,7 @@ O conhecimento acadêmico não será suficiente, não importa qual seja a faculd
 > Lembro aqui que são **sugestões pessoais**. É o que eu recomendo para meus melhores amigos.
 
 ## Início
-Algumas coisas são essenciais e comuns a todas as áreas de desenvolvimento de software. Aqui vão os passos fundamentais para os iniciantes:
+Algumas coisas são essenciais e comuns a todas as áreas de desenvolvimento de software. Aqui tem um [vídeo gentil para te ambientar](https://www.youtube.com/watch?v=Ntpn6T0yp4U) e sigo com os passos fundamentais para os iniciantes:
 
 ### Caso você não saiba inglês a nível intermediário:
 > Se você não consegue ver vídeos em inglês sem legenda ou não consegue ler textos longos em inglês.
