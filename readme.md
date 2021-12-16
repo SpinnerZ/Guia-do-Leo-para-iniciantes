@@ -46,7 +46,8 @@ O conhecimento acadêmico não será suficiente, não importa qual seja a faculd
 > Lembro aqui que são **sugestões pessoais**. É o que eu recomendo para meus melhores amigos.
 
 ## Início
-Algumas coisas são essenciais e comuns a todas as áreas de desenvolvimento de software. Aqui tem um [vídeo gentil para te ambientar](https://www.youtube.com/watch?v=Ntpn6T0yp4U) e sigo com os passos fundamentais para os iniciantes:
+Algumas coisas são essenciais e comuns a todas as áreas de desenvolvimento de software. 
+[André Noel](https://vidadeprogramador.com.br/) fez uma [série de vídeos curtos](https://www.youtube.com/playlist?list=PLnNeM4deC9TlsxoCC9myQjtrjNz_LSVff) muito boa para ambientar. Recomendo começar por ela e sigo com os passos fundamentais para os iniciantes:
 
 ### Caso você não saiba inglês a nível intermediário:
 > Se você não consegue ver vídeos em inglês sem legenda ou não consegue ler textos longos em inglês.
