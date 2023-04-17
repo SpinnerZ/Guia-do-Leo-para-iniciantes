@@ -37,12 +37,12 @@ Também vejo muito as mesmas dicas sendo constantemente repetidas pelas pessoas 
 
 Estou construindo este guia de forma colaborativa. Por favor, enviem sugestões de melhora!
 
-> **Este guia não substitui um curso de nível superior.**
-
-Tenho o objetivo de que este guia sirva como um complemento ou alternativa para quem realmente não pode ter acesso à faculdade.
+Tenho o objetivo de que este guia sirva como um complemento ou alternativa para ajudar a saber por onde se pode começar.
 Ele vai ser útil para empregabilidade, mas o conhecimento teórico e o apoio da instituição são muito importantes para sua formação profissional a longo prazo, além de permitir estagiar.
 
 O conhecimento acadêmico não será suficiente, não importa qual seja a faculdade que esteja fazendo. E também dá pra conseguir emprego mesmo sem o nível superior - mas no futuro essa graduação fará diferença!
+
+Aproveito aqui para deixar um projeto maravilhoso chamado [Universidade Livre](https://github.com/Universidade-Livre/ciencia-da-computacao), que mostra o roteiro do que, onde e como aprender o conteúdo de uma graduação em Ciência da Computação.
 
 > Lembro aqui que são **sugestões pessoais**. É o que eu recomendo para meus melhores amigos.
 
@@ -58,15 +58,17 @@ Algumas coisas são essenciais e comuns a todas as áreas de desenvolvimento de 
 
 Tudo no mundo da programação é em inglês. Você não precisa se desesperar agora, mas é importante dar o maior foco possível à esse estudo.
 
-Não vou indicar cursos aqui, mas recomendo fortemente o [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSRYUG6E2JEGJ2Q). Gratuito, ele é muito básico e é um ótimo início. Você estuda no seu tempo, não tem ninguém pra ver sua timidez, e a progressão é razoavelmente rápida.
+- Não vou indicar cursos aqui, mas recomendo fortemente o [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSRYUG6E2JEGJ2Q). Gratuito, ele é muito básico e é um ótimo início. Você estuda no seu tempo, não tem ninguém pra ver sua timidez, e a progressão é razoavelmente rápida.
 
-Outro site interessante é o [New in levels](https://www.newsinlevels.com/). Ele traz notícias em inglês de acordo com o seu nível de entendimento para praticar. Recomendaria tentar ler ao menos uma notícia por dia.
+- Outro site interessante é o [New in levels](https://www.newsinlevels.com/). Ele traz notícias em inglês de acordo com o seu nível de entendimento para praticar. Recomendaria tentar ler ao menos uma notícia por dia.
 
-O [LyricsTraining](https://lyricstraining.com/) vale uma atenção também. Nele você treina inglês completando trechos de músicas que você escolher.
+- O [LyricsTraining](https://lyricstraining.com/) vale uma atenção também. Nele você treina inglês completando trechos de músicas que você escolher.
 
-Mais um app que pode ser interessante é o [Words Coach Vocabulary](https://play.google.com/store/apps/details?id=com.users.wordsdaily&hl=pt_BR) onde você tem palavras novas todos os dias para aprender e um quiz bem legal onde você vai marcando pontos
+- Mais um app que pode ser interessante é o [Words Coach Vocabulary](https://play.google.com/store/apps/details?id=com.users.wordsdaily&hl=pt_BR) onde você tem palavras novas todos os dias para aprender e um quiz bem legal onde você vai marcando pontos
 
-Existem alternativas promissoras, como: [Cake](https://mycake.me/), [Elsa Speak](https://elsaspeak.com/en/), [English class 101](https://www.facebook.com/watch/live/?v=257526708781687&ref=watch_permalink), e o [Fluencytv](https://www.fluencytv.com/linguagem/ingles). Mas esses eu não experimentei o suficiente para ter uma opinião formada.
+- Existem alternativas promissoras, como: [Cake](https://mycake.me/), [Elsa Speak](https://elsaspeak.com/en/), [English class 101](https://www.facebook.com/watch/live/?v=257526708781687&ref=watch_permalink), e o [Fluencytv](https://www.fluencytv.com/linguagem/ingles). Mas esses eu não experimentei o suficiente para ter uma opinião formada.
+
+- E aqui, um [plano de estudos diário de inglês](https://www.nacaofluente.com/blog/planner-anual-cronograma-ingles/) que estou seguindo no momento.
 
 ## Passo 0
 
@@ -76,7 +78,7 @@ Faça esses passos, como puder, em paralelo (um ou dois desses por dia), e **só
 
 ### Leia o [Universo da programação](https://www.casadocodigo.com.br/products/livro-universo-programacao)
 
-O livro é barato, R$30,00 a versão digital, e é a única coisa paga que eu acho importante do guia inteiro. Se não tiver ainda assim, procura o autor [William Oliveira](https://woliveiras.com.br/) que ocasionalmente ele tem cupom de desconto.  
+O livro é barato e é a única coisa _paga_ que eu acho importante do guia inteiro. Se não tiver ainda assim, procura o autor [William Oliveira](https://woliveiras.com.br/) que ocasionalmente ele tem cupom de desconto.  
 
 É um livro que vai falar de tudo da programação, sem usar nenhuma linha de código. Vai dizer as áreas de atuação que existem e como escolhê-las, técnicas de estudo, como procurar empregos, comunidades e muito mais. É um dos melhores livros que já li e ele literalmente mudou minha vida.
 
@@ -86,7 +88,7 @@ O livro é barato, R$30,00 a versão digital, e é a única coisa paga que eu ac
 
 Sim, você pode, consegue, merece e **vai** fazer. É um excelente curso base para qualquer área. Tem a versão em [inglês](https://www.edx.org/course/cs50s-introduction-to-computer-science) (recomendada) e em [português](https://fundacao-estudar.myedools.com/cc50-o-curso-de-ciencia-da-computacao-de-harvard?utm_campaign=cc50_link_de_acesso_-_inscritos_na_lp_bug&utm_medium=email&utm_source=RD+Station) (localizada).
 
-Por R$480,00 você **pode** pagar pelo certificado e colocar no currículo **um diploma de Harvard de verdade, reconhecido internacionalmente**. Se tiver condições, pague. **Será** muito útil no futuro. Se não tiver, sem problemas. Seu esforço será mais válido que o certificado.
+Você **pode** pagar pelo certificado e colocar no currículo **um diploma de Harvard de verdade, reconhecido internacionalmente**. Se tiver condições, pague. **Será** muito útil no futuro. Se não tiver, sem problemas. Seu esforço será mais válido que o certificado.
 
 > Mas não existe meritocracia, ok? Vê esse meu [outro artigo aqui](https://spinnerzl.wordpress.com/2020/06/19/sempre-e-tempo-de-se-aprimorar/) que pode te inspirar.
 
