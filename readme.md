@@ -1,6 +1,6 @@
 # [Guia para desenvolvedores de software iniciantes autodidatas](https://spinnerz.github.io/Guia-do-Leo-para-iniciantes/)
 
-## Palavras Iniciais:
+## Palavras Iniciais
 
 - Você pode e consegue aprender programação.
 - Programação é para você.
@@ -31,6 +31,7 @@
 - Crie seu [LinkedIn](https://www.linkedin.com/)
 
 ## Sobre o guia
+
 Eu participo de muitas comunidades de software, e o que mais vejo são novatos perguntando por dicas, que caminho começar.  
 Também vejo muito as mesmas dicas sendo constantemente repetidas pelas pessoas e por mim. Então entendi que seria útil um guia para sanar várias dúvidas e dar um ótimo início, que teria mudado minha vida, ou pelo menos teria me feito economizar uns 3 meses de estudo e procura de material / orientação.
 
@@ -46,11 +47,14 @@ O conhecimento acadêmico não será suficiente, não importa qual seja a faculd
 > Lembro aqui que são **sugestões pessoais**. É o que eu recomendo para meus melhores amigos.
 
 ## Início
-Algumas coisas são essenciais e comuns a todas as áreas de desenvolvimento de software. 
+
+Algumas coisas são essenciais e comuns a todas as áreas de desenvolvimento de software.
 [André Noel](https://vidadeprogramador.com.br/) fez uma [série de vídeos curtos](https://www.youtube.com/playlist?list=PLnNeM4deC9TlsxoCC9myQjtrjNz_LSVff) muito boa para ambientar. Recomendo começar por ela e sigo com os passos fundamentais para os iniciantes:
 
-### Caso você não saiba inglês a nível intermediário:
+### Caso você não saiba inglês a nível intermediário
+
 > Se você não consegue ver vídeos em inglês sem legenda ou não consegue ler textos longos em inglês.
+> Nível B1
 
 Tudo no mundo da programação é em inglês. Você não precisa se desesperar agora, mas é importante dar o maior foco possível à esse estudo.
 
@@ -65,17 +69,19 @@ Mais um app que pode ser interessante é o [Words Coach Vocabulary](https://play
 Existem alternativas promissoras, como: [Cake](https://mycake.me/), [Elsa Speak](https://elsaspeak.com/en/), [English class 101](https://www.facebook.com/watch/live/?v=257526708781687&ref=watch_permalink), e o [Fluencytv](https://www.fluencytv.com/linguagem/ingles). Mas esses eu não experimentei o suficiente para ter uma opinião formada.
 
 ## Passo 0
+
 >Programadores contam a partir do 0. Espero que você entenda isso rápido!
 
 Faça esses passos, como puder, em paralelo (um ou dois desses por dia), e **só avance para os outros passos depois de terminar**!
 
-### Leia o [Universo da programação](https://www.casadocodigo.com.br/products/livro-universo-programacao).
+### Leia o [Universo da programação](https://www.casadocodigo.com.br/products/livro-universo-programacao)
 
 O livro é barato, R$30,00 a versão digital, e é a única coisa paga que eu acho importante do guia inteiro. Se não tiver ainda assim, procura o autor [William Oliveira](https://woliveiras.com.br/) que ocasionalmente ele tem cupom de desconto.  
 
 É um livro que vai falar de tudo da programação, sem usar nenhuma linha de código. Vai dizer as áreas de atuação que existem e como escolhê-las, técnicas de estudo, como procurar empregos, comunidades e muito mais. É um dos melhores livros que já li e ele literalmente mudou minha vida.
 
-### Faça um curso de Harvard gratuito e online.
+### Faça um curso de Harvard gratuito e online
+
 > Esse é um curso difícil, com ótima base teórica. É realmente a minha recomendação. Mas é mais importante que você não se frustre! Se sentir que está mais difícil no momento, há outras alternativas de aprendizado logo a seguir!
 
 Sim, você pode, consegue, merece e **vai** fazer. É um excelente curso base para qualquer área. Tem a versão em [inglês](https://www.edx.org/course/cs50s-introduction-to-computer-science) (recomendada) e em [português](https://fundacao-estudar.myedools.com/cc50-o-curso-de-ciencia-da-computacao-de-harvard?utm_campaign=cc50_link_de_acesso_-_inscritos_na_lp_bug&utm_medium=email&utm_source=RD+Station) (localizada).
@@ -97,7 +103,8 @@ Leia e entenda esse texto, com versões em [inglês](http://www.catb.org/esr/faq
 
 Nessa vida autodidata, é importante saber formular bem a dúvida para conseguir uma resposta rápida. Isso pode trazer atenção para você e foi assim que eu consegui meu primeiro emprego. Eu fui _recrutado_ simplesmente porque um cara gostou do meu comportamento numa comunidade (falarei mais à frente sobre comunidades).
 
-### Comunidades para te acolher e você saber que não está só:
+### Comunidades para te acolher e você saber que não está só
+
 - [Ditadura da minoria](https://bit.ly/3Ihx5li). É a que sou mais ativo. Não entre nela se você apoia as ideias do presidente Jair Bolsonaro ;)
 - [Impulso Network](https://impulser.me/5bdc9006)
 - [Developers](https://t.me/devs_brasil)
@@ -105,9 +112,7 @@ Nessa vida autodidata, é importante saber formular bem a dúvida para conseguir
 - [He4rt Devs](https://heartdevs.com/)
 - [Perifacode](https://perifacode.com/)
 
-
-### Passo 1:
-
+### Passo 1
 
 Você agora deve decidir entre qual caminho seguir. Farei guias com o que eu souber e conseguir de conteúdo comum e específico. Se você não leu [o livro que recomendei](https://www.casadocodigo.com.br/products/livro-universo-programacao?_pos=2&_sid=066fac7cc&_ss=r), **leia**.  
 É uma decisão importante, mas mudável. Pesquise sobre, ouça profissionais. Me pergunte algo, procure sugestões nas comunidades.
@@ -177,22 +182,22 @@ Vou deixar aqui as mais comuns áreas de atuação com um super resumo explicati
 
 Se chegou até seguindo todos os passos, você já sabe:
 
-+ Ler alguma solução curta para suas dúvidas em inglês;
-+ Como fazer uma pergunta que trará respostas (fora a quantidade de vezes que só de escrever a pergunta, a resposta aparece na cabeça);
-+ Lógica de programação;
-+ Algoritmos básicos;
-+ Mínimo sobre memória;
-+ Programação Imperativa;
-+ O essencial da linguagem C;
-+ Estruturas de dados;
-+ O essencial da linguagem Python;
-+ O essencial de SQL;
-+ Desenvolver sua técnica de estudo;
-+ Como pesquisar vagas;
-+ Que área seguir _inicialmente_;
-+ Como se envolver com comunidades, que livros ler;
-+ Como é o universo da programação;
-+ Um pouco mais de coisas.
+- Ler alguma solução curta para suas dúvidas em inglês;
+- Como fazer uma pergunta que trará respostas (fora a quantidade de vezes que só de escrever a pergunta, a resposta aparece na cabeça);
+- Lógica de programação;
+- Algoritmos básicos;
+- Mínimo sobre memória;
+- Programação Imperativa;
+- O essencial da linguagem C;
+- Estruturas de dados;
+- O essencial da linguagem Python;
+- O essencial de SQL;
+- Desenvolver sua técnica de estudo;
+- Como pesquisar vagas;
+- Que área seguir _inicialmente_;
+- Como se envolver com comunidades, que livros ler;
+- Como é o universo da programação;
+- Um pouco mais de coisas.
 
 ## Próximos passos
 
