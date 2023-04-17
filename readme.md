@@ -3,14 +3,13 @@
 ## Palavras Iniciais
 
 - Você pode e consegue aprender programação.
-- Programação é para você.
 - Desenvolvedores são os profissionais que mais se ajudam que você vai ver nesse planeta (só perde para taxistas, motoboys e policiais :D ).
 - Idade não é um problema. Sério. Não é mesmo. Dá pra começar aos 50.
 - É necessário esforço, mas tem uma recompensa pessoal relativamente rápida.
 - Existem diversas áreas de atuação, você vai gostar de alguma delas.
 - Você não vai aprender a hackear Facebook ou Instagram de ninguém.
 - Você não será obrigado a usar Linux.
-- O mercado está inacreditavelmente aquecido.
+- O mercado está aquecido - mesmo com os Layoffs. Só o primeiro emprego na área que é difícil.
 - Para entender recursividade é necessário antes entender recursividade (você vai ver essa piada em algum momento - e entender também - eu só queria ser o primeiro a contar :D ).
 - Programação é útil pra vida.
 - Tenha planos, metas e objetivos.
@@ -20,11 +19,11 @@
 ## Para não cair em ciladas
 
 - Fuja da DIO (Digital Innovation One), os cursos são ruins e não acredite na promessa de que vai conseguir emprego no final.
-- Não compre nenhum bootcamp que está em promoção por 2 dias e custa mil Reais
+- Não compre nenhum bootcamp que está em promoção por 2 dias e custa mil Reais na empolgação ou por achar que é uma oportunidade única. Não são.
 - Existem outros locais para se aprender fora a Alura
-- Tem cursos excelentes e péssimos na Udemy. Avalie bem antes de comprar o primeiro que aparecer na frente.
+- Há cursos excelentes e péssimos na Udemy. Avalie bem antes de comprar o primeiro que aparecer na frente.
 - Tem canais no Youtube que ensinam bem!
-- Universidades em que você cursa primeiro e paga depois de empregado são verdadeiras e ensinam bem, mas muito caras.
+- Universidades em que você cursa primeiro e paga depois de empregado são válidas e ensinam bem, mas muito caras.
 - Coloque tudo que for aprendendo no [GitHub](https://github.com)!
 - Pesquise sua dúvida na internet. Ela provavelmente já foi respondida.
 - Aprenda a pesquisar na internet.
@@ -119,6 +118,8 @@ Nessa vida autodidata, é importante saber formular bem a dúvida para conseguir
 Você agora deve decidir entre qual caminho seguir. Farei guias com o que eu souber e conseguir de conteúdo comum e específico. Se você não leu [o livro que recomendei](https://www.casadocodigo.com.br/products/livro-universo-programacao?_pos=2&_sid=066fac7cc&_ss=r), **leia**.  
 É uma decisão importante, mas mudável. Pesquise sobre, ouça profissionais. Me pergunte algo, procure sugestões nas comunidades.
 Vou deixar aqui as mais comuns áreas de atuação com um super resumo explicativo para que você pesquise em outros lugares para mais informações:
+
+> Eu uso o [roadmap.sh](https://roadmap.sh/) como refêrencia sobre o que devo aprender e qual meu nível atual. Tem conteúdo para todas essas áreas e mais ainda!
 
 - Front-end
 
